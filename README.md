@@ -1,6 +1,6 @@
-# biodataapp
+# biodataviewer
 
-A new Flutter project.
+A new Flutter project.Displays the data from seperate file.
 
 ## Getting Started
 
